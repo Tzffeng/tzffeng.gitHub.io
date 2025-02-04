@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 小枫的个人博客
-email: tzffeng@outlook.com
-author: Tzffeng
+title: "小枫的个人博客"
+email: "tzffeng@outlook.com"
+author: "Tzffeng"
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,7 +43,7 @@ author: Tzffeng
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-这里是 @小枫 的个人博客，与你一起发现更大的世界
+  "这里是 @小枫 的个人博客，与你一起发现更大的世界"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
